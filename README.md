@@ -1,4 +1,4 @@
-# Calculate-discrete-cosine-transform-DCT-with-Excel
+# Calculate discrete cosine transform (DCT) with Excel
 
 
 This repository demonstrates how to calculate the **Discrete Cosine Transform (DCT)** using Microsoft Excel.  
